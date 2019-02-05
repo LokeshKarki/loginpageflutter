@@ -4,6 +4,7 @@ login page, material design by flutter.
 
 #Screenshot
 ![untitled design](https://user-images.githubusercontent.com/33099008/52173204-75be3e80-27a5-11e9-9a66-f519fb3718b8.jpg)
+note - Image taken from google.com
 
 
 ## Getting Started
