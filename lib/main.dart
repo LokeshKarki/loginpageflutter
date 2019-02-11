@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-        debugShowCheckedModeBanner: null,
+        debugShowCheckedModeBanner: flase,
         home: new LoginPage(),
         theme: new ThemeData(primarySwatch: Colors.blue));
   }
